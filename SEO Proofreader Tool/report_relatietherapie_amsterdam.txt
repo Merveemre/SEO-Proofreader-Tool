@@ -1,0 +1,36 @@
+
+========================================
+   SEO PROOFREADER ANALYSIS REPORT
+========================================
+Page Type: Cost Page
+Overall Score: 38/100
+Recommendation: Fail
+----------------------------------------
+
+### TOP 5 IMPROVEMENT SUGGESTIONS ###
+1. Page title is missing.
+2. Meta description is missing.
+3. H1 should match the main keyword exactly. H1: 'Relatietherapie Amsterdam: herstel je relatie', Keyword: 'relatietherapie amsterdam'.
+4. Main keyword density is low (0.2%). Use it more naturally.
+5. Include a clear CTA to request or compare quotes.
+
+### DETAILED ANALYSIS ###
+
+--- TITLE (Score: 0/100) ---
+  - Page title is missing.
+
+--- META DESCRIPTION (Score: 0/100) ---
+  - Meta description is missing.
+
+--- HEADINGS & KEYWORDS (Score: 50/100) ---
+  - H1 should match the main keyword exactly. H1: 'Relatietherapie Amsterdam: herstel je relatie', Keyword: 'relatietherapie amsterdam'.
+  - Main keyword density is low (0.2%). Use it more naturally.
+
+--- CONTENT QUALITY & LINKS (Score: 40/100) ---
+  - Include a clear CTA to request or compare quotes.
+  - 1 paragraphs are too long. Keep them short and scannable.
+
+--- FORMATTING RULES (Score: 100/100) ---
+  - OK
+
+========================================

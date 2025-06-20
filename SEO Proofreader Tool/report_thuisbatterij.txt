@@ -1,0 +1,32 @@
+
+========================================
+   SEO PROOFREADER ANALYSIS REPORT
+========================================
+Page Type: Cost Page
+Overall Score: 96/100
+Recommendation: Pass
+----------------------------------------
+
+### TOP 5 IMPROVEMENT SUGGESTIONS ###
+1. Meta description should include the main keyword 'wat kost een thuisbatterij'.
+2. Main keyword density is low (0.5%). Use it more naturally.
+3. 3 paragraphs are too long. Keep them short and scannable.
+
+### DETAILED ANALYSIS ###
+
+--- TITLE (Score: 100/100) ---
+  - OK
+
+--- META DESCRIPTION (Score: 60/100) ---
+  - Meta description should include the main keyword 'wat kost een thuisbatterij'.
+
+--- HEADINGS & KEYWORDS (Score: 80/100) ---
+  - Main keyword density is low (0.5%). Use it more naturally.
+
+--- CONTENT QUALITY & LINKS (Score: 70/100) ---
+  - 3 paragraphs are too long. Keep them short and scannable.
+
+--- FORMATTING RULES (Score: 100/100) ---
+  - OK
+
+========================================
