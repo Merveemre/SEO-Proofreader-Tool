@@ -3,8 +3,7 @@
 Python-based automated SEO analysis tool prototype that scores content pages against checklists and provides actionable optimization recommendations.
 
 ### Requirements
-- Python 3.7+ (programming language and runtime environment)
-**Python Packages:**
+- Python>=3.7 (programming language and runtime environment)
 - pandas>=1.5.0 (for data manipulation and CSV file handling)
 - jupyter>=1.0.0 (for running the .ipynb notebook file)
 
