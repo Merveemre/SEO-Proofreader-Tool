@@ -1,10 +1,17 @@
 ## SEO Proofreader Tool
 
-Python-based automated SEO analysis tool that scores content pages against checklists and provides actionable optimization recommendations.
+Python-based automated SEO analysis tool prototype that scores content pages against checklists and provides actionable optimization recommendations.
 
 ### Requirements
-pandas>=1.5.0 - for data handling
-jupyter>=1.0.0 - for running the notebook
+- Python 3.7+ (programming language and runtime environment)
+**Python Packages:**
+- pandas>=1.5.0 (for data manipulation and CSV file handling)
+- jupyter>=1.0.0 (for running the .ipynb notebook file)
+
+**Installation:**
+```bash
+pip install pandas jupyter
+```
 
 ### How to Run
 Download the project
